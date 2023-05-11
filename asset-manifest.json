@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Olx-clone-react/static/css/main.285d95aa.chunk.css",
+    "main.js": "/Olx-clone-react/static/js/main.3db45c38.chunk.js",
+    "main.js.map": "/Olx-clone-react/static/js/main.3db45c38.chunk.js.map",
+    "runtime-main.js": "/Olx-clone-react/static/js/runtime-main.5ffc91bd.js",
+    "runtime-main.js.map": "/Olx-clone-react/static/js/runtime-main.5ffc91bd.js.map",
+    "static/js/2.6797bd92.chunk.js": "/Olx-clone-react/static/js/2.6797bd92.chunk.js",
+    "static/js/2.6797bd92.chunk.js.map": "/Olx-clone-react/static/js/2.6797bd92.chunk.js.map",
+    "index.html": "/Olx-clone-react/index.html",
+    "static/css/main.285d95aa.chunk.css.map": "/Olx-clone-react/static/css/main.285d95aa.chunk.css.map",
+    "static/js/2.6797bd92.chunk.js.LICENSE.txt": "/Olx-clone-react/static/js/2.6797bd92.chunk.js.LICENSE.txt",
+    "static/media/olx-logo.b3f099a2.png": "/Olx-clone-react/static/media/olx-logo.b3f099a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ffc91bd.js",
+    "static/js/2.6797bd92.chunk.js",
+    "static/css/main.285d95aa.chunk.css",
+    "static/js/main.3db45c38.chunk.js"
+  ]
+}
